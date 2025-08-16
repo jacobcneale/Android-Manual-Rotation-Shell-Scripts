@@ -3,7 +3,7 @@ A set of two shell scripts that set a rooted android device's user rotation to 2
 
 ## Instructions (WIP)
 I was initially only intending this for personal use, and since I made it a few weeks ago, I'm unsure if the steps are fully accurate. Will test soon!\
-Step 1) Use your method of choice to download the scripts onto the  your *rooted* Android device.\
+Step 1) Use your method of choice to download the scripts onto your *rooted* Android device.\
 Step 2) Download the [Termux](https://termux.dev/en/) and [Automation](https://f-droid.org/en/packages/com.jens.automation2/) applications and install them on your device.\
 Step 3) After giving Termux and Automation the appropriate permissions, chmod 755 the two scripts in Termux.\
 Step 4) In Automation, create a new rule and add the task "Run script or executable".\
